@@ -141,9 +141,10 @@ function init() {
   
       // 2. Create a variable that holds the first sample in the metadata array.
       var result = resultArray[0];
+      console.log(result.wfreq)
   
       // 3. Create a variable that holds the washing frequency.
-      var freq = parseFloat(result.wfreq);
+      var washFreq = parseInt(result.wfreq);
   
       // 4. Create the trace for the gauge chart.
       var gaugeData = [{
