@@ -32,6 +32,7 @@ The header part seen in the table above is created from the html file. While the
 
 #### Table 2. Demographic Information
 ![filter](https://user-images.githubusercontent.com/26927158/206582777-14899b1c-ade5-46a1-bf0e-4b8d9a5d1d84.png)
+
 The demographic ID part of the volunteers can be seen in this way. In the ID section, there is information about the ethnicity, gender, age, location, bbtype and wfreq of the volunteers.
 Each time the ID number is changed, the information of the volunteer will change live.
 
