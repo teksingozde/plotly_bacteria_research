@@ -152,7 +152,7 @@ function init() {
         mode: "gauge+number",
         value: freq,
         gauge: {
-          axis: {range: [0, 2, 4, 6, 8, 10]},
+          axis: {range: [null, 10]},
           bar: {color: "black"},
           steps: [
             {range: [0, 2], color: "red"},
