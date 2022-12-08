@@ -166,11 +166,12 @@ function init() {
       // 5. Create the layout for the gauge chart.
       var gaugeLayout = {
         height: 500,
-        width: 500
+        width: 500, 
+        margin: { t: 0, b: 0 }
       };
   
       // 6. Use Plotly to plot the gauge data and layout.
-      Plotly.newPlot("gauge", gaugeData);
+      Plotly.newPlot("gauge", gaugeData, gaugeLayout);
     });
   }
 
