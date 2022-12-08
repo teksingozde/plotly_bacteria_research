@@ -8,9 +8,11 @@ The customer wants the data file containing the information about the volunteers
 - CSS, 
 - Javascript.
 
-### Dataset: samples.json
+### Dataset: 
+- samples.json
 
-### Other Resources: index.html
+### Other Resources: 
+- index.html
 
 ## Creating Web Page 
 
