@@ -115,7 +115,8 @@ function init() {
         marker: {
           size: valueArr,
           color: idArr,
-          colorscale: "Earth"
+          colorscale: "Earth",
+          type: "heat"
         }
       }];
   
