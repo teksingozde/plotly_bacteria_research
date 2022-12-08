@@ -150,7 +150,6 @@ function init() {
         title: {text: "Belly Button Washing Frequency<br><span>Scrubs per Week</span>"},
         type: "indicator",
         mode: "gauge+number",
-        value: freq,
         gauge: {
           axis: {range: [null, 10]},
           bar: {color: "black"},
